@@ -33,7 +33,7 @@
 ## Getting Started
 
 ```bash
-git clone https://github.com/1llusionfx/NotLetters-Email-Tool
+git clone https://github.com/g8tsz/NotLetters-Email-Tool
 cd NotLetters-Email-Tool
 pip install -r requirements.txt
 ```
@@ -123,8 +123,3 @@ This tool is for educational and legitimate use only. You're responsible for fol
 
 MIT — see [LICENSE](LICENSE) for details.
 
-<div align="center">
-
-**Made by [1l9n](https://github.com/1llusionfx)**
-
-</div>
